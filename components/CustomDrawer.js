@@ -14,7 +14,7 @@ import {
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { MaterialIcons } from '@expo/vector-icons';
 import { doc, getDoc, setDoc } from 'firebase/firestore';
-import { db } from '../firebaseCon';
+import { db } from '../firebaseCon.js';
 
 const defaultBalances = [
   { label: 'Available balance', amount: 0 },

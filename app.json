@@ -1,4 +1,20 @@
 {
   "name": "stocks2",
-  "slug": "stocks2"
+  "slug": "stocks2",
+  "extra": {
+    "eas": {
+      "projectId": "60be8fac-bcb0-471e-a7c8-56117e843225"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.sagarsin.stocks2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de91a845-749c-49c1-aabb-6ea9f05dc32f"
+      }
+    },
+    "owner": "amanjot3110"
+  }
 }
