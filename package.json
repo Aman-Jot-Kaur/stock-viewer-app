@@ -1,0 +1,15 @@
+{
+  "name": "stocks2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/deprecate-holder/issues"
+  },
+  "homepage": "https://github.com/npm/deprecate-holder#readme",
+  "private": true
+}
