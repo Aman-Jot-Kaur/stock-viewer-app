@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/3eef220a-86eb-4cdf-9a29-705a93ff89d1)
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/fcc11ca7-768b-4d12-973e-45148942c984" />
+
 how you can create your own expo app?:
 step 1: npx create-expo-app@latest stocks2 --template javascript 
 step 2: npx expo install react-native-web @expo/metro-runtime   
