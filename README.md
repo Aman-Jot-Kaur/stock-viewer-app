@@ -16,6 +16,10 @@
 to run:
 npm i
 npx expo start --clear
+
+
+
+
 also create your own firebaseCon.js:
 
 
