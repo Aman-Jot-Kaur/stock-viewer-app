@@ -11,6 +11,7 @@
   <img width="150" style="margin:10px" alt="image" src="https://github.com/user-attachments/assets/8616d063-55df-498b-91b1-c725f67d64d7" />
 </div>
 
+download link : https://expo.dev/accounts/amanjot3110/projects/stocks2/builds/6d790abd-8924-49ce-94f4-4c55834de173
 
 
 to run:
